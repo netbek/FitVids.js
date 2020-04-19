@@ -1,0 +1,24 @@
+{
+  "name": "jquery-fitvids",
+  "version": "1.2.0",
+  "description": "FitVids makes video embeds responsive",
+  "main": "jquery.fitvids.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davatron5000/FitVids.js"
+  },
+  "author": {
+    "name": "Dave Rupert"
+  },
+  "licenses": [{
+      "type": "WTFPL",
+       "url": "http://www.wtfpl.net/txt/copying"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/davatron5000/FitVids.js/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
